@@ -1,0 +1,30 @@
+**Application for 3 Days Leave**
+
+**Employee Name:** [Your Name]
+**Employee ID:** [Your Employee ID]
+**Designation:** [Your Designation]
+**Reporting Manager:** [Your Manager's Name]
+
+**Subject:** Request for 3 Days Leave
+
+Dear [Manager's Name],
+
+I am writing to request a 3-day leave from [Date] to [Date]. I have a personal matter that requires my attention and I will be unavailable during this period.
+
+**Leave Details:**
+
+- **Start Date:** [Date]
+- **End Date:** [Date]
+- **Total Days:** 3 days
+
+**Purpose of Leave:** I have a personal matter that I need to attend to and I will be unavailable during this period.
+
+**Availability of Work:** I will ensure that all my tasks are completed before I leave, and I will make arrangements to ensure a smooth transition of work during my absence.
+
+**Contact Information:** If any urgent work arises during my leave, please contact me at [Your Phone Number] or [Your Email].
+
+Thank you for considering my request. I appreciate your understanding and approval of my leave.
+
+**Sincerely,**
+
+[Your Name]

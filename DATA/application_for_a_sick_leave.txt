@@ -1,0 +1,56 @@
+**Application for Sick Leave**
+
+**Employee Information:**
+
+- **Name:** [Insert your name]
+- **Employee ID:** [Insert your employee ID]
+- **Designation:** [Insert your designation]
+- **Department:** [Insert your department]
+
+**Leave Information:**
+
+- **Leave Type:** Sick Leave
+- **From Date:** [Insert the date you need to start your leave from]
+- **To Date:** [Insert the date you need to end your leave on]
+- **Duration:** [Insert the number of days you need to take leave for]
+
+**Reason for Leave:**
+
+I am writing to inform you that I will be unable to attend work due to illness. I am experiencing [insert the reason for your illness, e.g., fever, flu, etc.]. My doctor has advised me to [insert any specific instructions or recommendations from your doctor]. I will make sure to provide any necessary medical certificates or documentation as required by the company.
+
+**Supporting Documents:**
+
+- Medical Certificate (attached)
+
+**Arrangements for Work:**
+
+- I will ensure that all my tasks and responsibilities are completed before going on leave.
+- I will make arrangements for my colleagues to cover any urgent tasks or responsibilities during my absence.
+- I will be available by email or phone if anything urgent comes up while I am on leave.
+
+**Certification:**
+
+I certify that the above information is true and accurate to the best of my knowledge. I understand that any misrepresentation may lead to disciplinary action.
+
+**Signature:** [Insert your signature]
+**Date:** [Insert the date]
+
+**Medical Certificate:**
+
+Please attach a medical certificate from your doctor to this application, if required by the company.
+
+**Note:**
+
+- Please submit this application at least [insert the number of days or hours] before the start of your leave.
+- If you need any assistance or have any questions, please do not hesitate to contact your supervisor or HR representative.
+
+**Company Policy:**
+
+Please refer to the company's sick leave policy for more information on eligibility, duration, and procedures for applying for sick leave.
+
+**Acknowledgement:**
+
+I acknowledge that I have read and understood the company's sick leave policy and procedures.
+
+**Signature:** [Insert your signature]
+**Date:** [Insert the date]
